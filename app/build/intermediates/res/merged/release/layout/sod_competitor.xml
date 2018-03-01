@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/home_root"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/login_header"
+    android:orientation="vertical" >
+
+    <!-- Include Header Bar -->
+
+    <RelativeLayout
+        android:id="@+id/mainpage_header"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/training_header"
+        android:background="@drawable/titletext_bg"
+        android:padding="5sp" >
+
+        <TextView
+            android:id="@+id/mainpage_remembermetext"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:text="Main Menu"
+            android:textColor="#ffffff"
+            android:textSize="14sp" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/training_1C"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/mainpage_header"
+        android:background="#d5d5d5"
+        android:paddingLeft="5sp"
+        android:paddingRight="5sp"
+        android:paddingTop="5sp"
+        android:weightSum="1.0" >
+
+        <Spinner
+            android:id="@+id/sku"
+            android:layout_width="170sp"
+            android:layout_height="50sp"
+            android:layout_marginRight="15sp"
+            android:layout_weight=".40" />
+
+        <Spinner
+            android:id="@+id/display"
+            android:layout_width="170sp"
+            android:layout_height="50sp"
+            android:layout_toRightOf="@+id/sku"
+            android:layout_weight=".40" />
+
+        <Button
+            android:id="@+id/image1"
+            android:layout_width="50sp"
+            android:layout_height="35sp"
+            android:layout_marginLeft="2sp"
+            android:layout_marginRight="2sp"
+            android:layout_toRightOf="@+id/display"
+            android:layout_weight=".20"
+            android:background="@drawable/camera"
+            android:onClick="onButtonClick" />
+
+       <!--  <Button
+            android:id="@+id/image2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="2sp"
+            android:layout_marginRight="2sp"
+            android:layout_toRightOf="@+id/image1"
+            android:layout_weight=".15"
+             android:background="@drawable/camera"
+            android:onClick="onButtonClick" />
+
+        <Button
+            android:id="@+id/image3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="2sp"
+            android:layout_marginRight="2sp"
+            android:layout_toRightOf="@+id/image2"
+             android:layout_weight=".15"
+              android:background="@drawable/camera"
+            android:onClick="onButtonClick" /> -->
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/training_2C"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/training_1C"
+        android:background="#d5d5d5"
+        android:paddingBottom="5sp"
+        android:paddingLeft="5sp"
+        android:paddingRight="5sp" >
+
+        <EditText
+            android:id="@+id/length"
+            android:layout_width="0sp"
+            android:layout_height="0sp"
+            android:hint="Length"
+            android:onClick="onButtonClick"
+            android:textColor="#383838"
+            android:text="0"
+            android:enabled="false"
+            android:textSize="16sp" />
+
+        <EditText
+            android:id="@+id/width"
+            android:layout_width="0sp"
+            android:text="0"
+            android:layout_height="0sp"
+            android:layout_toRightOf="@+id/length"
+            android:hint="Width"
+            android:enabled="false"
+            android:onClick="onButtonClick"
+            android:textColor="#383838"
+            android:textSize="16sp" >
+        </EditText>
+
+        <EditText
+            android:id="@+id/heigth"
+            android:layout_width="0sp"
+            android:layout_height="0sp"
+            android:layout_toRightOf="@+id/width"
+            android:hint="Height"
+            android:text="0"
+            android:enabled="false"
+            android:onClick="onButtonClick"
+            android:textColor="#383838"
+            android:textSize="16sp" >
+        </EditText>
+
+      <!--   <Button
+            android:id="@+id/dom1"
+            android:layout_width="65sp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="1sp"
+            android:layout_toRightOf="@+id/heigth"
+            android:onClick="onButtonClick"
+            android:text="DOM" />
+
+        <Button
+            android:id="@+id/dom2"
+           android:layout_width="65sp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="1sp"
+            android:layout_toRightOf="@+id/dom1"
+            android:onClick="onButtonClick"
+            android:text="DOM" />
+
+        <Button
+            android:id="@+id/dom3"
+            android:layout_width="65sp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="1sp"
+            android:layout_toRightOf="@+id/dom2"
+            android:layout_weight=".20"
+            android:onClick="onButtonClick"
+            android:text="DOM" /> -->
+
+        <Button
+            android:id="@+id/save"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="1sp"
+            android:layout_toRightOf="@+id/heigth"
+            android:text="ADD SKU"
+            android:onClick="onButtonClick" />
+        
+          <Button
+            android:id="@+id/savedata"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Save"
+            android:layout_marginLeft="1sp"
+            android:layout_toRightOf="@+id/save"
+            android:onClick="onButtonClick" />
+
+          <Button
+              android:id="@+id/totalcounter"
+              android:layout_width="60dp"
+              android:layout_height="wrap_content"
+              android:layout_alignBottom="@+id/savedata"
+              android:layout_alignParentRight="true"
+              android:layout_alignParentTop="true"
+              android:background="#FF0000"
+              android:text="tete" />
+
+    </RelativeLayout>
+
+    <ListView
+        android:id="@+id/list"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_below="@+id/training_2C"
+        android:cacheColorHint="#00000000"
+        android:choiceMode="singleChoice"
+        android:divider="#3668a6"
+        android:dividerHeight="2dp"
+        android:padding="10sp" />
+
+    <com.cpm.keyboard.CustomKeyboardView
+        android:id="@+id/keyboard_view"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true" >
+    </com.cpm.keyboard.CustomKeyboardView>
+
+</RelativeLayout>

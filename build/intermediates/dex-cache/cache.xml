@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\ParinaamPepsico1\app\libs\ksoap2-android-assembly-3.0.0-jar-with-dependencies.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="224c93f1824fa17b96db7250c2e5e2703d45e052">
+        <dex dex="E:\ParinaamPepsico1\app\build\intermediates\pre-dexed\release\ksoap2-android-assembly-3.0.0-jar-with-dependencies_3d8c10df6f9b542a9b4836c46ff1b8c5ffac628f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\ParinaamPepsico1\app\libs\acra-4.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="7864f0ac6c74d84e465aa5449fa14408b0a1418f">
+        <dex dex="E:\ParinaamPepsico1\app\build\intermediates\pre-dexed\release\acra-4.4.0_f4db5236bb832b7a90a2aa767a517ee1d6d377f0.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+      android:weightSum="100"
+    >
+    
+        
+    <ScrollView 
+        android:layout_width="fill_parent"
+        android:layout_height="match_parent"
+        >
+  <LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="0dp"
+    android:orientation="vertical" 
+
+  
+    >
+<RelativeLayout
+        android:layout_weight="1"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:gravity="center"
+        android:visibility="gone"
+        android:background="#87CEFA" >
+
+        <Button
+            android:id="@+id/button1"
+            style="?android:attr/buttonStyleSmall"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+       android:visibility="invisible"
+            android:text="Daily Entry" 
+         
+           
+            />
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="152dp"
+            android:text="@string/storetarget"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+        
+    </RelativeLayout>
+    <LinearLayout 
+               android:layout_width="match_parent"
+               android:layout_height="1dp"
+               android:background="#000"
+               ></LinearLayout>
+    
+    <LinearLayout 
+         android:layout_weight="30"
+         android:layout_width="match_parent"
+         android:layout_height="0dp"
+         android:orientation="vertical"
+        >
+        
+        
+           <TextView
+            android:layout_gravity="center"
+            android:id="@+id/textView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/sostarget"
+            android:textColor="#000"
+            android:textSize="22sp"
+           />
+           
+           <LinearLayout 
+                android:weightSum="10"
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+         android:orientation="horizontal"
+               >
+               
+               
+           <TextView
+            android:layout_gravity="center"
+            android:layout_weight="3.3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/vertical"
+            android:layout_marginLeft="5dp"
+            android:textSize="18sp"
+           />
+           
+           
+           <TextView
+            android:layout_gravity="center"
+             android:layout_weight="3.3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/brand"
+            android:textSize="18sp"
+           />
+           
+           
+           <TextView
+            android:layout_gravity="center"
+            android:layout_weight="3.3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/target"
+            android:textSize="18sp"
+           />
+           </LinearLayout>
+           
+           <LinearLayout 
+               android:layout_width="match_parent"
+               android:layout_height="1dp"
+               android:background="#000"
+               ></LinearLayout>
+           
+           <ListView 
+               android:id="@+id/listsos"
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               ></ListView>
+    </LinearLayout>
+    
+       <LinearLayout 
+               android:layout_width="match_parent"
+               android:layout_height="1dp"
+               android:background="#000"
+               ></LinearLayout>
+        <LinearLayout 
+         android:layout_weight="30"
+         android:layout_width="match_parent"
+         android:layout_height="0dp"
+         android:orientation="vertical"
+        >
+        
+        
+           <TextView
+            android:layout_gravity="center"
+            android:id="@+id/textView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/prostarget"
+            android:textColor="#000"
+            android:textSize="22sp"
+           />
+         
+                <LinearLayout 
+                android:weightSum="10"
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+         android:orientation="horizontal"
+               >
+               
+              
+           <TextView
+            android:layout_gravity="center"
+            android:layout_weight="3.5"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:text="@string/vertical"
+            android:layout_marginLeft="5dp"
+            android:textSize="18sp"
+           />
+
+           <TextView
+               android:id="@+id/textView2"
+               android:layout_width="0dp"
+               android:layout_weight="4"
+                android:textSize="18sp"
+               android:layout_height="wrap_content"
+               android:text="Promo Type" />
+           
+           <TextView
+            android:layout_gravity="center"
+             android:layout_weight="3"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+             android:textSize="18sp"
+            android:text="Promo"
+         
+           />
+           
+           
+       
+           </LinearLayout>
+           <LinearLayout 
+               android:layout_width="match_parent"
+               android:layout_height="1dp"
+               android:background="#000"
+               ></LinearLayout>
+           <ListView 
+               android:id="@+id/listprom"
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               ></ListView>
+    </LinearLayout>
+      <LinearLayout 
+               android:layout_width="match_parent"
+               android:layout_height="1dp"
+               android:background="#000"
+               ></LinearLayout>
+            <LinearLayout 
+         android:layout_weight="30"
+         android:layout_width="match_parent"
+         android:layout_height="0dp"
+         android:orientation="vertical"
+        >
+        
+        
+           <TextView
+            android:layout_gravity="center"
+            android:id="@+id/textView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/assetarget"
+            android:textColor="#000"
+            android:textSize="25sp"
+           />
+           <LinearLayout 
+               android:layout_width="match_parent"
+               android:layout_height="1dp"
+               android:background="#000"
+               ></LinearLayout>
+                       <LinearLayout 
+                android:weightSum="10"
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+         android:orientation="horizontal"
+               >
+               
+               
+           <TextView
+            android:layout_gravity="center"
+            android:layout_weight="7"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/vertical"
+            android:layout_marginLeft="5dp"
+             android:textSize="18sp"
+           />
+           
+           
+           <TextView
+            android:layout_gravity="center"
+             android:layout_weight="3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/brand"
+             android:textSize="18sp"
+           />
+           
+           
+       
+           </LinearLayout>
+           <LinearLayout 
+               android:layout_width="match_parent"
+               android:layout_height="1dp"
+               android:background="#000"
+               ></LinearLayout>
+           
+           <ListView 
+               android:id="@+id/listasset"
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               ></ListView>
+    </LinearLayout>
+    </LinearLayout>
+    </ScrollView>
+
+
+</LinearLayout>

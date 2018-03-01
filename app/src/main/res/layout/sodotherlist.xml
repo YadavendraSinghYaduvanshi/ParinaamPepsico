@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/bg"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:id="@+id/focusskulistview_chartcontentarea"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/focusskulistview_chartcontentarea1"
+        android:layout_marginLeft="1sp"
+        android:layout_marginRight="1sp"
+        android:background="#d5d5d5"
+        android:weightSum="1.0" >
+
+        <RelativeLayout
+            android:id="@+id/focusskulistview_1C"
+            android:layout_width="0dip"
+            android:layout_height="55sp"
+            android:layout_marginBottom="1sp"
+            android:layout_marginRight="1sp"
+            android:layout_weight=".60"
+            android:padding="1sp" >
+
+            <TextView
+                android:id="@+id/sku"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:paddingLeft="5sp"
+                android:text="Sku"
+                android:textColor="#272727"
+                android:textSize="15sp"
+                android:textStyle="normal" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/focusskulistview_2C"
+            android:layout_width="0dip"
+            android:layout_height="55sp"
+            android:layout_marginBottom="1sp"
+            android:layout_marginRight="1sp"
+            android:layout_weight=".20"
+            android:padding="1sp" >
+
+            <TextView
+                android:id="@+id/stock"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:layout_centerVertical="true"
+                android:text="stock"
+                android:textColor="#272727"
+                android:textSize="15sp"
+                android:textStyle="normal" >
+            </TextView>
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/focusskulistview_3C"
+            android:layout_width="0dip"
+            android:layout_height="55sp"
+            android:layout_marginBottom="1sp"
+            android:layout_marginRight="1sp"
+            android:layout_weight=".20"
+            android:padding="1sp" >
+
+            <TextView
+                android:id="@+id/faceup"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:layout_centerVertical="true"
+                android:text="faceup"
+                android:textColor="#272727"
+                android:textSize="15sp"
+                android:textStyle="normal" >
+            </TextView>
+        </RelativeLayout>
+    </LinearLayout>
+
+</RelativeLayout>

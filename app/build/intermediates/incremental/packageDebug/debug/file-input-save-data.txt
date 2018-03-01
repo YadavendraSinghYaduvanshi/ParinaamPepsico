@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Tue Feb 27 12:52:51 IST 2018
+1.base=D\:\\ParinaamPepsico1\\app\\build\\intermediates\\assets\\debug
+0.baseType=DIRECTORY
+1.baseType=DIRECTORY
+count=2
+1.set=ASSET
+0.path=classes.dex
+0.set=DEX
+0.base=D\:\\ParinaamPepsico1\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+1.path=ksoap2-android-assembly-2.5.8-jar-with-dependencies.jar

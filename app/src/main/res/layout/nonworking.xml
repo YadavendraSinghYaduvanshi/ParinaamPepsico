@@ -1,0 +1,152 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        
+        android:id="@+id/home_root"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:background="@drawable/login_header"
+        android:orientation="vertical" >
+
+        <!-- Include Header Bar -->
+
+        <RelativeLayout
+            android:id="@+id/mainpage_header"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:background="@drawable/titletext_bg"
+            android:padding="5sp" >
+
+            <TextView
+                android:id="@+id/mainpage_remembermetext"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_centerVertical="true"
+                android:text=""
+                android:textColor="#ffffff"
+                android:textSize="14sp" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/layout1"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/mainpage_header"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp" >
+
+            <TextView
+                android:id="@+id/textView2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_marginTop="20dp"
+                android:text="Reason"
+                android:textColor="#2156a6"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <Spinner
+                android:id="@+id/spinner2"
+                android:layout_width="200sp"
+                android:layout_height="50sp"
+                android:layout_alignParentLeft="true"
+                android:layout_below="@id/textView2"
+                android:layout_marginTop="5dp"
+                android:paddingLeft="5dp" />
+
+            <Spinner
+                android:id="@+id/subreason"
+                android:layout_width="200sp"
+                android:layout_height="50sp"
+                android:layout_alignParentLeft="true"
+                android:layout_below="@id/spinner2"
+                android:layout_marginTop="5dp"
+                android:paddingLeft="5dp" />
+
+            <TextView
+                android:id="@+id/testview4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/subreason"
+                android:layout_marginBottom="14dp"
+                android:text="Capture Photo"
+                android:textColor="#2156a6"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                android:visibility="gone" />
+
+            <Button
+                android:id="@+id/picbtn1"
+                android:layout_width="65sp"
+                android:layout_height="50sp"
+                android:layout_alignLeft="@+id/edit"
+                android:layout_below="@+id/testview4"
+                android:background="@drawable/camera"
+                android:visibility="gone" />
+
+            <EditText
+                android:id="@+id/edit"
+                android:layout_width="200sp"
+                android:layout_height="50sp"
+                android:layout_alignParentLeft="true"
+                android:layout_below="@+id/picbtn1"
+                android:layout_margin="3sp"
+                android:hint="Informed to"
+                android:textSize="17sp"
+                android:visibility="gone" />
+
+            <Spinner
+                android:id="@+id/keyacount"
+                android:layout_width="200sp"
+                 android:visibility="gone"
+                android:layout_height="50sp"
+                android:layout_alignParentLeft="true"
+                android:layout_below="@id/edit"
+                android:layout_marginTop="5dp"
+                android:paddingLeft="5dp" />
+
+            <EditText
+                android:id="@+id/storeinfo"
+                android:layout_width="200sp"
+                android:layout_height="50sp"
+                android:layout_alignParentLeft="true"
+                android:layout_below="@+id/keyacount"
+                android:layout_margin="3sp"
+                android:hint="Store Info"
+                android:textSize="17sp"
+                android:visibility="gone" />
+            
+                  <EditText
+                      android:id="@+id/otherreason"
+                      android:layout_width="200sp"
+                      android:layout_height="50sp"
+                      android:layout_alignParentLeft="true"
+                      android:layout_below="@+id/storeinfo"
+                      android:layout_margin="3sp"
+                      android:hint="Reason"
+                      android:textSize="17sp"
+                      android:visibility="gone" />
+
+        </RelativeLayout>
+
+        <Button
+            android:id="@+id/save"
+            android:layout_width="100sp"
+            android:layout_height="40sp"
+            android:layout_alignLeft="@+id/layout1"
+            android:layout_below="@+id/layout1"
+            android:layout_margin="5dp"
+            android:background="@drawable/innerbtn"
+            android:text="SAVE"
+            android:textColor="#ffffff"
+            android:textSize="17sp" />
+    </RelativeLayout>
+
+</ScrollView>

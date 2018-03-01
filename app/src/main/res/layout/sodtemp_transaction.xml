@@ -1,0 +1,179 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/home_root"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/login_header"
+    android:orientation="vertical" >
+
+    <!-- Include Header Bar -->
+
+    <RelativeLayout
+        android:id="@+id/training_header"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:background="@drawable/title_header"
+        android:padding="5sp"
+        android:visibility="gone" >
+
+        <TextView
+            android:id="@+id/training_remembermetext"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:text="Share Of Shelf"
+            android:textColor="#ffffff"
+            android:textSize="20sp" />
+
+        <Button
+            android:id="@+id/training_intellogo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:background="@drawable/back_btn_bg"
+            android:onClick="onButtonClick"
+            android:visibility="invisible" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/mainpage_header"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/training_header"
+        android:background="@drawable/titletext_bg"
+        android:padding="5sp" >
+
+        <TextView
+            android:id="@+id/mainpage_remembermetext"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:text="Main Menu"
+            android:textColor="#ffffff"
+            android:textSize="14sp" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/training_contentarea"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/mainpage_header"
+        android:padding="1sp"
+        android:weightSum="1.0" >
+
+        <RelativeLayout
+            android:id="@+id/pepsicolistview_2C"
+            android:layout_width="0dip"
+            android:layout_height="55sp"
+            android:layout_marginBottom="1sp"
+            android:layout_weight=".33"
+            android:padding="1sp" >
+
+            <Spinner
+                android:id="@+id/vertical"
+                android:layout_width="fill_parent"
+                android:layout_height="40sp"
+                android:layout_centerVertical="true" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/pepsicolistview_2C"
+            android:layout_width="0dip"
+            android:layout_height="55sp"
+            android:layout_marginBottom="1sp"
+            android:layout_marginLeft="1sp"
+            android:layout_marginRight="1sp"
+            android:layout_weight=".33"
+            android:padding="1sp" >
+
+            <Spinner
+                android:id="@+id/category"
+                android:layout_width="fill_parent"
+                android:layout_height="40sp"
+                android:layout_alignTop="@+id/training_selectrsptypetext"
+                android:layout_centerVertical="true" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/pepsicolistview_2C"
+            android:layout_width="0dip"
+            android:layout_height="55sp"
+            android:layout_marginBottom="1sp"
+            android:layout_marginLeft="1sp"
+            android:layout_marginRight="1sp"
+            android:layout_weight=".33"
+            android:padding="1sp" >
+
+            <Spinner
+                android:id="@+id/sku"
+                android:layout_width="fill_parent"
+                android:layout_height="40sp"
+                android:layout_alignTop="@+id/training_selectrsptypetext"
+                android:layout_centerVertical="true" />
+        </RelativeLayout>
+    </LinearLayout>
+
+    <RelativeLayout
+        android:id="@+id/training_2C"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/training_contentarea"
+        android:paddingBottom="5sp"
+        android:paddingLeft="5sp"
+        android:paddingRight="5sp" >
+
+        <EditText
+            android:id="@+id/stock"
+            android:layout_width="150sp"
+            android:layout_height="wrap_content"
+            android:hint="Stock"
+            android:onClick="onButtonClick"
+            android:textColor="#383838"
+            android:textSize="16sp" >
+        </EditText>
+
+        <EditText
+            android:id="@+id/faceup"
+            android:layout_width="150sp"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@+id/stock"
+            android:hint="Facing"
+            android:onClick="onButtonClick"
+            android:textColor="#383838"
+            android:textSize="16sp" >
+        </EditText>
+
+        <Button
+            android:id="@+id/save"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="3sp"
+            android:layout_toRightOf="@+id/faceup"
+            android:background="@drawable/add_btn"
+            android:onClick="onButtonClick" />
+    </RelativeLayout>
+
+    <ListView
+        android:id="@+id/list"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_below="@+id/training_2C"
+        android:layout_marginBottom="5dp"
+        android:cacheColorHint="#00000000"
+        android:choiceMode="singleChoice"
+        android:divider="#3668a6"
+        android:dividerHeight="2dp"
+        android:drawSelectorOnTop="false"
+        android:smoothScrollbar="true" />
+
+    <com.cpm.keyboard.CustomKeyboardView
+        android:id="@+id/keyboard_view"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true" >
+    </com.cpm.keyboard.CustomKeyboardView>
+
+</RelativeLayout>

@@ -1,0 +1,165 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/home_root"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#ffffff"
+    android:orientation="vertical" >
+
+    <!-- Include Header Bar -->
+
+    <LinearLayout
+        android:id="@+id/traininglist_listview"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="#ffffff"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:id="@+id/traininglist_listview"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:weightSum="1.0" >
+
+            <RelativeLayout
+                android:id="@+id/traininglist_listviewpalletinner_1C"
+                android:layout_width="0dp"
+                android:layout_height="fill_parent"
+                android:layout_marginBottom="1sp"
+                android:layout_marginRight="1sp"
+                android:layout_weight=".3" >
+
+                <TextView
+                    android:id="@+id/sku_id"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentTop="true"
+                    android:layout_marginRight="5sp"
+                    android:text="Company"
+                    android:textColor="#284b99"
+                    android:textSize="15sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/company"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentTop="true"
+                    android:layout_toRightOf="@+id/sku_id"
+                    android:text="Co.name"
+                    android:textColor="#2c2c2c"
+                    android:textSize="15sp"
+                    android:textStyle="normal" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="0dip"
+                android:layout_height="fill_parent"
+                android:layout_marginBottom="1sp"
+                android:layout_marginRight="1sp"
+                android:layout_weight=".3" >
+
+                <TextView
+                    android:id="@+id/posmid"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentTop="true"
+                    android:layout_marginRight="5sp"
+                    android:text="Remarks"
+                    android:textColor="#284b99"
+                    android:textSize="15sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/remarks"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_alignParentTop="true"
+                    android:layout_toRightOf="@+id/posmid"
+                    android:text="type"
+                    android:textColor="#2c2c2c"
+                    android:textSize="15sp"
+                    android:textStyle="normal" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/traininglist_listviewpalletinner_1C"
+                android:layout_width="0dp"
+                android:layout_height="fill_parent"
+                android:layout_marginBottom="1sp"
+                android:layout_marginRight="1sp"
+                android:layout_weight=".3" >
+
+                <TextView
+                    android:id="@+id/lid"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentTop="true"
+                    android:layout_marginRight="5sp"
+                    android:text="Brand"
+                    android:textColor="#284b99"
+                    android:textSize="15sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/sku"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentTop="true"
+                    android:layout_toRightOf="@+id/lid"
+                    android:text="sku"
+                    android:textColor="#2c2c2c"
+                    android:textSize="15sp"
+                    android:textStyle="bold" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="0dip"
+                android:layout_height="fill_parent"
+                android:layout_marginBottom="1sp"
+                android:layout_marginRight="1sp"
+                android:layout_weight=".05" >
+
+                <ImageView
+                    android:id="@+id/camera"
+                    android:layout_width="20sp"
+                    android:layout_height="20sp"
+                    android:background="@drawable/camera" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="0dip"
+                android:layout_height="fill_parent"
+                android:layout_marginBottom="1sp"
+                android:layout_marginRight="1sp"
+                android:layout_weight=".05" >
+
+                <ImageView
+                    android:id="@+id/delete"
+                    android:layout_width="30sp"
+                    android:layout_height="30sp"
+                    android:layout_alignParentRight="true"
+                    android:layout_marginRight="5sp"
+                    android:background="@drawable/close" />
+            </RelativeLayout>
+        </LinearLayout>
+
+        <!--
+        <LinearLayout
+            android:id="@+id/traininglist_listview"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/traininglist_listview"
+            android:weightSum="1.0" >
+
+           
+            
+
+       
+        </LinearLayout>
+        -->
+    </LinearLayout>
+
+</LinearLayout>

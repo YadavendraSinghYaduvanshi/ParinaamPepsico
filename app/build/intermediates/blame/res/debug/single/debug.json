@@ -1,0 +1,2618 @@
+[
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_soself.xml.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable\\btn_soself.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_textfield_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-mdpi\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_shareofdisplay_tick.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-mdpi\\shareofdisplay_tick.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_ic_go_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-xhdpi\\abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_tab_text.xml.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\design-22.2.1.aar\\46188772dd278ff201c2da518771a93c\\res\\layout\\layout_tab_text.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\layout_new_sos_pepsi.xml.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\layout\\new_sos_pepsi.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_pepsicol_logo.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\pepsicol_logo.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_snackbar_background.xml.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\design-22.2.1.aar\\46188772dd278ff201c2da518771a93c\\res\\drawable\\snackbar_background.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_posmexecution_fred_bgreen.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-mdpi\\posmexecution_fred_bgreen.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xhdpi_abc_ic_ab_back_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-ldrtl-xhdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-mdpi\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_leave_tick.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\leave_tick.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_ab_share_pack_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-xxhdpi\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_checkout_pressed.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-mdpi\\checkout_pressed.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_common_google_signin_btn_text_dark_disabled.9.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-9.8.0.aar\\937915c7fa16a847df3dc0b78c8e0dad\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\layout_assetlayout.xml.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\layout\\assetlayout.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_switch_thumb_material.xml.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_google_signin_btn_text_dark_disabled.9.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-9.8.0.aar\\937915c7fa16a847df3dc0b78c8e0dad\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_customlayout.xml.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable\\button_customlayout.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-mdpi\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_list_pressed_holo_dark.9.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-xhdpi\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_google_signin_btn_icon_light_normal.9.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-9.8.0.aar\\937915c7fa16a847df3dc0b78c8e0dad\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_focussku_tick.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-mdpi\\focussku_tick.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-xxxhdpi\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\layout_images_sos.xml.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\layout\\images_sos.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\layout_new_pepsifocusskulistview.xml.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\layout\\new_pepsifocusskulistview.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_btn_rating_star_on_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-mdpi\\abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_ic_go_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-mdpi\\abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tab_indicator.xml.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable\\tab_indicator.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_geopin.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\geopin.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_news_feed_selected.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\news_feed_selected.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_lines.xml.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_ic_menu_moreoverflow_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-xxhdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-hdpi\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-xxxhdpi\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\layout_start_here.xml.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\layout\\start_here.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-xxxhdpi\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_slide_in_bottom.xml.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-mdpi\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_slide_out_bottom.xml.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\layout_autoupdate.xml.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\layout\\autoupdate.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_btn_radio_material.xml.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\layout_multiline_spinner.xml.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\layout\\multiline_spinner.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_google_signin_btn_text_dark_pressed.9.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-9.8.0.aar\\937915c7fa16a847df3dc0b78c8e0dad\\res\\drawable-xhdpi-v4\\common_google_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_green.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\green.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\layout_editimages_sod.xml.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\layout\\editimages_sod.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_entry_tick.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\entry_tick.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_camera_list.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\camera_list.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_events_selected.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\events_selected.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_text_cursor_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-mdpi\\abc_text_cursor_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-mdpi\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_list_pressed_holo_dark.9.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-mdpi\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_download_btn.xml.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable\\download_btn.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_posmexecutiontick.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\posmexecutiontick.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-xxxhdpi\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_entry_tick.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-mdpi\\entry_tick.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_abc_ic_voice_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-xxxhdpi\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_posmexecution_fgrey_bgrey.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-mdpi\\posmexecution_fgrey_bgrey.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_cab_background_top_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-xhdpi\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_ic_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-mdpi\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-xxhdpi\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_shareofdisplay_fgreen_bgreen.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-mdpi\\shareofdisplay_fgreen_bgreen.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_textfield_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-hdpi\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_shareofshelftick.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\shareofshelftick.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_simple_dropdown_hint.xml.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\layout\\abc_simple_dropdown_hint.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_titletext_bg.xml.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable\\titletext_bg.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_shareofdisplay_fgreen_bgreen.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\shareofdisplay_fgreen_bgreen.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-xxhdpi\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_list_pressed_holo_dark.9.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-hdpi\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_bar_up_container.xml.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xhdpi_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-ldrtl-xhdpi\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-hdpi\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_download_hover.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\download_hover.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_list_selector_disabled_holo_light.9.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-xhdpi\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-xxhdpi\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_save_icon.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable\\save_icon.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_auto_update.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\auto_update.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_salesthru.xml.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable\\btn_salesthru.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_displaypaid.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\displaypaid.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_autoupdate.xml.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable\\btn_autoupdate.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_abc_ic_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-xxxhdpi\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_salesthru_selected.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\salesthru_selected.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-xxxhdpi\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_textfield_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-hdpi\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_pointer1.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\pointer1.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_innerbtn.xml.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable\\innerbtn.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_ic_clear_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-mdpi\\abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_ic_menu_moreoverflow_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-hdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\layout_dailyactivitymenu.xml.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\layout\\dailyactivitymenu.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_menu_item_layout.xml.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-xxxhdpi\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-hdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_shareofdisplay_fred_bgreen.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\shareofdisplay_fred_bgreen.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_friends_default.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\friends_default.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\layout_sod_competitor.xml.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\layout\\sod_competitor.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_back.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\back.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_store_checkout.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\store_checkout.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_news_feed_default.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\news_feed_default.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\layout_newmainscreen.xml.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\layout\\newmainscreen.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gradient_bg.xml.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable\\gradient_bg.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_shareofshelftick.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-mdpi\\shareofshelftick.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_editboxtext.xml.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable\\editboxtext.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_skuavailabilitytick.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\skuavailabilitytick.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_google_signin_btn_icon_light_disabled.9.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-9.8.0.aar\\937915c7fa16a847df3dc0b78c8e0dad\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-hdpi\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_search_url_text.xml.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\layout_new_share_of_shelf.xml.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\layout\\new_share_of_shelf.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_focussku_fred_bgreen.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\focussku_fred_bgreen.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_textfield_search_material.xml.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_tab_icon.xml.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\design-22.2.1.aar\\46188772dd278ff201c2da518771a93c\\res\\layout\\layout_tab_icon.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_dialog_material_background_dark.xml.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-mdpi\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-hdpi_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-ldrtl-hdpi\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\layout_sod_transaction.xml.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\layout\\sod_transaction.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_textfield_search_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-xhdpi\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\layout_select_dialog_singlechoice_material.xml.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-xxxhdpi\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\layout_share_of_shelf.xml.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\layout\\share_of_shelf.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_google_signin_btn_icon_dark_normal.9.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-9.8.0.aar\\937915c7fa16a847df3dc0b78c8e0dad\\res\\drawable-xhdpi-v4\\common_google_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_auto_update_hover.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\auto_update_hover.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_google_signin_btn_icon_dark_normal.9.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-9.8.0.aar\\937915c7fa16a847df3dc0b78c8e0dad\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_google_signin_btn_text_dark_pressed.9.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-9.8.0.aar\\937915c7fa16a847df3dc0b78c8e0dad\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_checkout_selected.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-mdpi\\checkout_selected.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-hdpi\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_list_menu_item_radio.xml.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_exit_btn.xml.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable\\exit_btn.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-xhdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_focussku.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-mdpi\\focussku.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\layout_displaypaidadapter.xml.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\layout\\displaypaidadapter.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-mdpi\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_active_back_btn.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\active_back_btn.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_google_signin_btn_icon_light_pressed.9.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-9.8.0.aar\\937915c7fa16a847df3dc0b78c8e0dad\\res\\drawable-xhdpi-v4\\common_google_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_ab_share_pack_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-xhdpi\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\anim_fab_out.xml.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\design-22.2.1.aar\\46188772dd278ff201c2da518771a93c\\res\\anim\\fab_out.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_posmexecution_fred_bgreen.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\posmexecution_fred_bgreen.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_checkout_pressed.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\checkout_pressed.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-mdpi_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-ldrtl-mdpi\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_btn_borderless_material.xml.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_ic_voice_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-xhdpi\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_new_parinaam_logo.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\new_parinaam_logo.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_primary_text_material_light.xml.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_ic_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-xxhdpi\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_text_cursor_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-xxhdpi\\abc_text_cursor_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_secondary_text_material_light.xml.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-xhdpi\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\layout_displaypaiddetail.xml.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\layout\\displaypaiddetail.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\color_common_google_signin_btn_text_dark.xml.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-9.8.0.aar\\937915c7fa16a847df3dc0b78c8e0dad\\res\\color\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_skuavailabilitytick.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-mdpi\\skuavailabilitytick.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_oos_entry.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\oos_entry.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_text_light_focused.xml.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-9.8.0.aar\\937915c7fa16a847df3dc0b78c8e0dad\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\layout_kipreport_layout.xml.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\layout\\kipreport_layout.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_skuavailability.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-mdpi\\skuavailability.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_list_divider_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-xhdpi\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_upload_hover.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\upload_hover.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_list_pressed_holo_dark.9.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-xxhdpi\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-xhdpi\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_btn_rating_star_on_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-hdpi\\abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\layout_geoviewlist.xml.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\layout\\geoviewlist.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp_layout_snackbar.xml.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\design-22.2.1.aar\\46188772dd278ff201c2da518771a93c\\res\\layout-sw600dp\\layout_snackbar.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-mdpi\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-mdpi\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_google_signin_btn_icon_light_normal.9.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-9.8.0.aar\\937915c7fa16a847df3dc0b78c8e0dad\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\layout_skulist.xml.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\layout\\skulist.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_ic_clear_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-hdpi\\abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_userid_textbox.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\userid_textbox.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-xxxhdpi\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_login_btn_hover.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\login_btn_hover.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_flex_default.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\flex_default.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_cab_background_top_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-xxhdpi\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_parinaam_logo.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\parinaam_logo.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-hdpi\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_camera_list_tick.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\camera_list_tick.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_focussku.xml.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable\\btn_focussku.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_focussku_tick.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\focussku_tick.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_ab_share_pack_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-hdpi\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-xxhdpi\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_bar_view_list_nav_layout.xml.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_dailyentry.xml.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable\\btn_dailyentry.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_popup_background_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-hdpi\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tick_u.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\tick_u.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_common_google_signin_btn_text_dark_pressed.9.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-9.8.0.aar\\937915c7fa16a847df3dc0b78c8e0dad\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gradient_bg_hover.xml.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable\\gradient_bg_hover.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\layout_geo_tag_listpage.xml.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\layout\\geo_tag_listpage.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_list_selector_holo_dark.xml.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_shareofdisplay_fred_bred.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\shareofdisplay_fred_bred.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_cab_background_top_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-mdpi\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_focussku.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\focussku.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_select_dialog_material.xml.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_posmtheme_default.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\posmtheme_default.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_media_cancel_action.xml.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_spinner_textfield_background_material.xml.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_login_btn_active.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\login_btn_active.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_merchandisingbg.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\merchandisingbg.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_ic_go_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-hdpi\\abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_photos_selected.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\photos_selected.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_icon_dark_focused.xml.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-9.8.0.aar\\937915c7fa16a847df3dc0b78c8e0dad\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tickredyellow.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\tickredyellow.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_chronometer.xml.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_mode_close_item_material.xml.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg.xml.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable\\bg.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\layout_custom.xml.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\layout\\custom.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_messages_default.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\messages_default.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_text_cursor_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-hdpi\\abc_text_cursor_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-xhdpi\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_places_pressed.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\places_pressed.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_shareofdisplay_fgreen_bred.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\shareofdisplay_fgreen_bred.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_skuavailability.xml.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable\\btn_skuavailability.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tickgreenv.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\tickgreenv.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_google_signin_btn_icon_dark_disabled.9.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-9.8.0.aar\\937915c7fa16a847df3dc0b78c8e0dad\\res\\drawable-xhdpi-v4\\common_google_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_list_selector_background_transition_holo_dark.xml.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxxhdpi_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-ldrtl-xxxhdpi\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-xhdpi\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_focussku_fred_bred.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\focussku_fred_bred.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_paid_tick.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-mdpi\\paid_tick.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_google_signin_btn_icon_light_pressed.9.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-9.8.0.aar\\937915c7fa16a847df3dc0b78c8e0dad\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_storeico.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\storeico.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_narrow.xml.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_dialog_material_background_light.xml.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_focussku_fgreen_bred.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\focussku_fgreen_bred.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\layout_promotion_comp.xml.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\layout\\promotion_comp.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_camera_icon_done.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable\\camera_icon_done.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_textfield_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-mdpi\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-hdpi\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_navigation_item_separator.xml.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\design-22.2.1.aar\\46188772dd278ff201c2da518771a93c\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_flex_selected.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\flex_selected.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_common_google_signin_btn_text_light_disabled.9.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-9.8.0.aar\\937915c7fa16a847df3dc0b78c8e0dad\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_shareofdisplay.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\shareofdisplay.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_training_default.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\training_default.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxhdpi_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-ldrtl-xxhdpi\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_sdisplay.xml.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable\\btn_sdisplay.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_camera.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\camera.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_list_divider_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-hdpi\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-hdpi\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_list_menu_item_checkbox.xml.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\layout_main.xml.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_listcameralocked.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\listcameralocked.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-xxhdpi\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-hdpi\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_geo_tag.xml.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\layout\\content_geo_tag.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_google_signin_btn_text_light_disabled.9.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-9.8.0.aar\\937915c7fa16a847df3dc0b78c8e0dad\\res\\drawable-xhdpi-v4\\common_google_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-hdpi\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxhdpi_abc_ic_ab_back_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-ldrtl-xxhdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_exit_hover.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\exit_hover.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_text_cursor_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-xhdpi\\abc_text_cursor_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_geo_tag.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\geo_tag.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_ic_clear_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-xxhdpi\\abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\layout_assetlistview.xml.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\layout\\assetlistview.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_common_google_signin_btn_text_dark_normal.9.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-9.8.0.aar\\937915c7fa16a847df3dc0b78c8e0dad\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\layout_showtargetscreenlayout.xml.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\layout\\showtargetscreenlayout.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_google_signin_btn_icon_dark_disabled.9.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-9.8.0.aar\\937915c7fa16a847df3dc0b78c8e0dad\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\color_switch_thumb_material_light.xml.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_common_google_signin_btn_icon_dark_disabled.9.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-9.8.0.aar\\937915c7fa16a847df3dc0b78c8e0dad\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_upload.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\upload.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_posmexecution_fred_bred.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\posmexecution_fred_bred.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\anim_fab_in.xml.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\design-22.2.1.aar\\46188772dd278ff201c2da518771a93c\\res\\anim\\fab_in.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_flex_pressed.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\flex_pressed.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_events_pressed.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\events_pressed.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_password_textbox.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\password_textbox.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-mdpi\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xhdpi_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-ldrtl-xhdpi\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_checkout.xml.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable\\btn_checkout.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-hdpi\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\layout_brandlistview.xml.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\layout\\brandlistview.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_displaypaid_fgreen_bgreen.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\displaypaid_fgreen_bgreen.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_list_selector_background_transition_holo_light.xml.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_secondary_text_material_dark.xml.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\color_switch_thumb_material_dark.xml.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-xxxhdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-xhdpi\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-hdpi\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_entry_dis.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\entry_dis.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_popup_enter.xml.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\layout_sod_othersskulist.xml.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\layout\\sod_othersskulist.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_title_header.xml.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable\\title_header.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_discomp.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\discomp.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_skuavailability_dis.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\skuavailability_dis.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_media_action.xml.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_camera_orange.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable\\camera_orange.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\layout_mainpage.xml.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\layout\\mainpage.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_popup_exit.xml.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_ic_menu_moreoverflow_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-mdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_ic_menu_moreoverflow_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-xhdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_textfield_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-xhdpi\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\layout_dailyactivityfragment_layout.xml.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\layout\\dailyactivityfragment_layout.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_google_signin_btn_text_light_normal.9.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-9.8.0.aar\\937915c7fa16a847df3dc0b78c8e0dad\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\layout_new_main.xml.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\layout\\new_main.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_screen_simple.xml.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_shareofshelf_tick.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\shareofshelf_tick.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_grow_fade_in_from_bottom.xml.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_posmexecutionfgreenbgreen.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-mdpi\\posmexecutionfgreenbgreen.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu.xml.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\menu\\menu.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_google_signin_btn_text_dark_normal.9.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-9.8.0.aar\\937915c7fa16a847df3dc0b78c8e0dad\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-xhdpi\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_shareofshelf.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-mdpi\\shareofshelf.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_daily_entry_hover.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\daily_entry_hover.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_diaplaypartialb.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\diaplaypartialb.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_common_google_signin_btn_icon_light_pressed.9.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-9.8.0.aar\\937915c7fa16a847df3dc0b78c8e0dad\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-hdpi_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-ldrtl-hdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_friends_selected.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\friends_selected.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\layout_promotion_pepsi.xml.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\layout\\promotion_pepsi.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_places_default.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\places_default.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_abc_ic_clear_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-xxxhdpi\\abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_menu_layout.xml.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_list_longpressed_holo.9.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-mdpi\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\layout_displaypaiddetailadap.xml.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\layout\\displaypaiddetailadap.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_abc_ic_menu_moreoverflow_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-xxxhdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_list_focused_holo.9.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-mdpi\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_posmexecution_fgrey_bred.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-mdpi\\posmexecution_fgrey_bred.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_common_google_signin_btn_icon_dark_pressed.9.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-9.8.0.aar\\937915c7fa16a847df3dc0b78c8e0dad\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-mdpi_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-ldrtl-mdpi\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_navigation_menu.xml.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\design-22.2.1.aar\\46188772dd278ff201c2da518771a93c\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_posmexecutionfgreenbgreen.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\posmexecutionfgreenbgreen.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-mdpi\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-xhdpi\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-xhdpi\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_item_background_holo_dark.xml.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-xhdpi\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_list_pressed_holo_light.9.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-xhdpi\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\layout_sos_pepsi.xml.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\layout\\sos_pepsi.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_exit.xml.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable\\btn_exit.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\layout_store_visited.xml.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\layout\\store_visited.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_google_signin_btn_icon_dark_pressed.9.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-9.8.0.aar\\937915c7fa16a847df3dc0b78c8e0dad\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_posmexecution_dis.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\posmexecution_dis.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-xhdpi\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_text_dark_focused.xml.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-9.8.0.aar\\937915c7fa16a847df3dc0b78c8e0dad\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_time.xml.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_listcamera.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\listcamera.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_google_signin_btn_icon_dark_disabled.9.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-9.8.0.aar\\937915c7fa16a847df3dc0b78c8e0dad\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-xhdpi\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_displaypaid_fgreen_bred.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\displaypaid_fgreen_bred.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_btn_default_mtrl_shape.xml.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_focussku_fgrey_bgreen.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\focussku_fgrey_bgreen.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-mdpi\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-xxxhdpi\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_posmexecution_fgrey_bred.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\posmexecution_fgrey_bred.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\color-v11_abc_background_cache_hint_selector_material_dark.xml.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\layout_innerpepsicolistview.xml.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\layout\\innerpepsicolistview.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_btn_check_material.xml.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_list_selector_disabled_holo_light.9.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-mdpi\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_google_signin_btn_text_light_disabled.9.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-9.8.0.aar\\937915c7fa16a847df3dc0b78c8e0dad\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\layout_storename.xml.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\layout\\storename.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_list_pressed_holo_light.9.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-xxhdpi\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-mdpi\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_posmexecution.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\posmexecution.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_displaypaid.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-mdpi\\displaypaid.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_posmexecution_fgey_bgreen.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\posmexecution_fgey_bgreen.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_close.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\close.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_tab_indicator_material.xml.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_textbox_bg.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\textbox_bg.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_daily_entry_btn.xml.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable\\daily_entry_btn.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_list_selector_holo_light.xml.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_posmexecutiontick.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-mdpi\\posmexecutiontick.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_list_longpressed_holo.9.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-hdpi\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\layout_sodtemp_transaction.xml.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\layout\\sodtemp_transaction.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_google_signin_btn_text_light_normal.9.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-9.8.0.aar\\937915c7fa16a847df3dc0b78c8e0dad\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxhdpi_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-ldrtl-xxhdpi\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_checkout_default.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-mdpi\\checkout_default.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_events_default.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\events_default.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_btn_rating_star_on_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-xhdpi\\abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_textfield_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-xxhdpi\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_ic_go_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-xxhdpi\\abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-xxhdpi\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_daily_entry.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\daily_entry.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_camera_done.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\camera_done.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-xhdpi\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_common_google_signin_btn_icon_light_disabled.9.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-9.8.0.aar\\937915c7fa16a847df3dc0b78c8e0dad\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\anim_snackbar_in.xml.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\design-22.2.1.aar\\46188772dd278ff201c2da518771a93c\\res\\anim\\snackbar_in.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_btn_rating_star_off_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-xhdpi\\abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_posmexecution_na.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\posmexecution_na.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_google_signin_btn_text_light_pressed.9.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-9.8.0.aar\\937915c7fa16a847df3dc0b78c8e0dad\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_shareofshelf_tick.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-mdpi\\shareofshelf_tick.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\layout_support_simple_spinner_dropdown_item.xml.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_posmexecution_fgreen_bred.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-mdpi\\posmexecution_fgreen_bred.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_checkout_default.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\checkout_default.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_common_google_signin_btn_text_light_normal.9.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-9.8.0.aar\\937915c7fa16a847df3dc0b78c8e0dad\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-mdpi\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_text_light.xml.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-9.8.0.aar\\937915c7fa16a847df3dc0b78c8e0dad\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_list_pressed_holo_light.9.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-hdpi\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_messages_pressed.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\messages_pressed.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_diaplaypartialb.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-mdpi\\diaplaypartialb.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_textfield_search_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-xxhdpi\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_delete_btn.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\delete_btn.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_training_pressed.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\training_pressed.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_google_signin_btn_icon_dark_pressed.9.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-9.8.0.aar\\937915c7fa16a847df3dc0b78c8e0dad\\res\\drawable-xhdpi-v4\\common_google_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_fade_out.xml.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_focussku_dis.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\focussku_dis.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_list_longpressed_holo.9.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-xxhdpi\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_ic_clear_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-xhdpi\\abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\layout_gps_location.xml.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\layout\\gps_location.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_delete_btna.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\delete_btna.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_textfield_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-xxhdpi\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_posmexecution.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-mdpi\\posmexecution.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\layout_sodlist.xml.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\layout\\sodlist.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\xml_keyboard.xml.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\xml\\keyboard.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-xxxhdpi\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_upload_btn.xml.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable\\upload_btn.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-hdpi\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_retailer_txt.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\retailer_txt.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_ic_ab_back_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-xxhdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_focussku_fgreen_bgreen.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\focussku_fgreen_bgreen.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\layout_titlebg.xml.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\layout\\titlebg.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_download.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\download.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_alert_dialog_material.xml.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ratingbar_full_material.xml.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-xhdpi\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\layout_newentry1.xml.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\layout\\newentry1.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_popup_background_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-xxhdpi\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_deactive_radio_box.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\deactive_radio_box.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\layout_sod_listview.xml.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\layout\\sod_listview.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_title_bg.xml.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable\\title_bg.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_bar_title_item.xml.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-xxhdpi\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fab_background.xml.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\design-22.2.1.aar\\46188772dd278ff201c2da518771a93c\\res\\drawable\\fab_background.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_ic_ab_back_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-mdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_displaypaid_fred_bred.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\displaypaid_fred_bred.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_displaypaidfredbgreen.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\displaypaidfredbgreen.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_login_header.xml.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable\\login_header.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_full_open_on_phone.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-9.8.0.aar\\937915c7fa16a847df3dc0b78c8e0dad\\res\\drawable-hdpi-v4\\common_full_open_on_phone.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\layout_sodotherlist.xml.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\layout\\sodotherlist.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_posmexecution_fgreen_bgrey.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\posmexecution_fgreen_bgrey.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_activebtn_bg.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\activebtn_bg.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_ic_ab_back_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-xhdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_posmexecution_fgreen_bgreen.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\posmexecution_fgreen_bgreen.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_training.xml.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable\\btn_training.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-mdpi\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_deactive_back_btn.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\deactive_back_btn.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_geo_tag.xml.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\layout\\activity_geo_tag.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_list_menu_item_icon.xml.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_shareofdisplay_fgreen_bgey.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-mdpi\\shareofdisplay_fgreen_bgey.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_shareofshelf_dis.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\shareofshelf_dis.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_displayred.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-mdpi\\displayred.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_primary_text_disable_only_material_dark.xml.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_icon_light_focused.xml.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-9.8.0.aar\\937915c7fa16a847df3dc0b78c8e0dad\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\layout_countlistview.xml.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\layout\\countlistview.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-mdpi\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-xhdpi\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_listcameratick.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\listcameratick.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_google_signin_btn_text_light_normal.9.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-9.8.0.aar\\937915c7fa16a847df3dc0b78c8e0dad\\res\\drawable-xhdpi-v4\\common_google_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_checkout_selected.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\checkout_selected.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_layout.xml.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\layout\\fragment_layout.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_skuavailability_tick.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-mdpi\\skuavailability_tick.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_posmtheme_pressed.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\posmtheme_pressed.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\layout_assest_lis.xml.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\layout\\assest_lis.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_screen_toolbar.xml.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-xhdpi\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_checkout.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\checkout.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxxhdpi_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-ldrtl-xxxhdpi\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-xxxhdpi\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\layout_pepsifocusskulistview.xml.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\layout\\pepsifocusskulistview.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_back_btn_bg.xml.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable\\back_btn_bg.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_shareofdisplay_dis.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\shareofdisplay_dis.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_full_open_on_phone.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-9.8.0.aar\\937915c7fa16a847df3dc0b78c8e0dad\\res\\drawable-xhdpi-v4\\common_full_open_on_phone.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_red.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\red.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_list_pressed_holo_light.9.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-mdpi\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_geo_tag_btn.xml.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable\\geo_tag_btn.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_google_signin_btn_text_light_disabled.9.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-9.8.0.aar\\937915c7fa16a847df3dc0b78c8e0dad\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_ab_share_pack_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-mdpi\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_places_selected.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\places_selected.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_posmexecution_fgreen_bgrey.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-mdpi\\posmexecution_fgreen_bgrey.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_headerimg.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\headerimg.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\layout_sodfragment_layout.xml.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\layout\\sodfragment_layout.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\layout_promo_lay.xml.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\layout\\promo_lay.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xhdpi_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-ldrtl-xhdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_news_feed_pressed.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\news_feed_pressed.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\layout_targetrowlayout.xml.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\layout\\targetrowlayout.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_displayred.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\displayred.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-xxhdpi\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_abc_ic_ab_back_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-xxxhdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_training_selected.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\training_selected.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tab_background.xml.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable\\tab_background.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_navigation_item_header.xml.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\design-22.2.1.aar\\46188772dd278ff201c2da518771a93c\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_posmtheme_selected.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\posmtheme_selected.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-xxhdpi\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_shareofdisplay_fgreen_bgey.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\shareofdisplay_fgreen_bgey.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_primary_text_disable_only_material_light.xml.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_shareofdisplay_tick.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\shareofdisplay_tick.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_icon_dark.xml.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-9.8.0.aar\\937915c7fa16a847df3dc0b78c8e0dad\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_messages_selected.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\messages_selected.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_mode_bar.xml.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_popup_background_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-xhdpi\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxxhdpi_abc_ic_ab_back_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-ldrtl-xxxhdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_popup_background_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-mdpi\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_yelloww.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\yelloww.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\layout_newscreendaily.xml.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\layout\\newscreendaily.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-mdpi_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-ldrtl-mdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_primary_text_material_dark.xml.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\layout_editimages_promotion.xml.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\layout\\editimages_promotion.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_popup_menu_item_layout.xml.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_lock_home_icon.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\lock_home_icon.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_geo_tag_hover.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\geo_tag_hover.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_btn_rating_star_off_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-hdpi\\abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\layout_sod_skulist.xml.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\layout\\sod_skulist.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_store.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\store.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_snackbar.xml.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\design-22.2.1.aar\\46188772dd278ff201c2da518771a93c\\res\\layout\\layout_snackbar.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-mdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_text_dark.xml.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-9.8.0.aar\\937915c7fa16a847df3dc0b78c8e0dad\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_list_focused_holo.9.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-xxhdpi\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_salesthru_default.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\salesthru_default.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_google_signin_btn_text_dark_normal.9.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-9.8.0.aar\\937915c7fa16a847df3dc0b78c8e0dad\\res\\drawable-xhdpi-v4\\common_google_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_posmexecution_fred_bred.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-mdpi\\posmexecution_fred_bred.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_dialog_title_material.xml.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_btn_rating_star_on_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-xxhdpi\\abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-mdpi\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_google_signin_btn_text_light_pressed.9.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-9.8.0.aar\\937915c7fa16a847df3dc0b78c8e0dad\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_common_google_signin_btn_text_light_pressed.9.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-9.8.0.aar\\937915c7fa16a847df3dc0b78c8e0dad\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_posmexecution.xml.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable\\btn_posmexecution.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_google_signin_btn_text_dark_disabled.9.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-9.8.0.aar\\937915c7fa16a847df3dc0b78c8e0dad\\res\\drawable-xhdpi-v4\\common_google_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_activity_chooser_view_list_item.xml.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_ic_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-hdpi\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\layout_sodtran_listview.xml.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\layout\\sodtran_listview.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_ic_ab_back_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-hdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-xhdpi\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_noimg.jpg.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\noimg.jpg"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-hdpi\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_common_google_signin_btn_icon_dark_normal.9.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-9.8.0.aar\\937915c7fa16a847df3dc0b78c8e0dad\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_supdate.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\supdate.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_common_google_signin_btn_icon_light_normal.9.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-9.8.0.aar\\937915c7fa16a847df3dc0b78c8e0dad\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_posmexecution_fgrey_bgrey.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\posmexecution_fgrey_bgrey.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_list_selector_disabled_holo_light.9.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-xxhdpi\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\layout_select_dialog_item_material.xml.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-xxhdpi\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_google_signin_btn_text_dark_normal.9.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-9.8.0.aar\\937915c7fa16a847df3dc0b78c8e0dad\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_search_view.xml.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-xxhdpi\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-xxxhdpi\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_paid_tick.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\paid_tick.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxhdpi_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-ldrtl-xxhdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tickredv.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\tickredv.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_active_radio_box.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\active_radio_box.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_downloaddata.xml.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable\\btn_downloaddata.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_friends_pressed.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\friends_pressed.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-xxhdpi\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_list_selector_disabled_holo_light.9.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-hdpi\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\layout_newlayoutadapter.xml.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\layout\\newlayoutadapter.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-hdpi_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-ldrtl-hdpi\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\layout_upload_option.xml.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\layout\\upload_option.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_ic_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-xhdpi\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_icon_light.xml.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-9.8.0.aar\\937915c7fa16a847df3dc0b78c8e0dad\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_list_divider_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-xxhdpi\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_photos_pressed.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\photos_pressed.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_google_signin_btn_icon_light_disabled.9.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-9.8.0.aar\\937915c7fa16a847df3dc0b78c8e0dad\\res\\drawable-xhdpi-v4\\common_google_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_google_signin_btn_icon_light_pressed.9.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-9.8.0.aar\\937915c7fa16a847df3dc0b78c8e0dad\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-hdpi\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_displayparialf.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-mdpi\\displayparialf.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_new_pepsicol_logo.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\new_pepsicol_logo.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\layout_tabhost.xml.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\layout\\tabhost.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_btn_rating_star_off_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-xxhdpi\\abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_displaypaid_fgrey_bgrey.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\displaypaid_fgrey_bgrey.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_displayparialf.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\displayparialf.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_paid_dis.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\paid_dis.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_posmtheme.xml.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable\\btn_posmtheme.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_list_longpressed_holo.9.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-xhdpi\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_add_btn.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\add_btn.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-hdpi_abc_ic_ab_back_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-ldrtl-hdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_cab_background_top_material.xml.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\layout_sodtempother_listview.xml.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\layout\\sodtempother_listview.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_salesthru_pressed.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\salesthru_pressed.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_skuavailability.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\skuavailability.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background.xml.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable\\background.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_shareofdisplay.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-mdpi\\shareofdisplay.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\layout_promotion_listview.xml.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\layout\\promotion_listview.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_exit.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\exit.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_ic_voice_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-mdpi\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\layout_focusskulistview.xml.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\layout\\focusskulistview.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-xxhdpi\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_textfield_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-xhdpi\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_search_dropdown_item_icons_2line.xml.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\layout_nonworking.xml.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\layout\\nonworking.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-mdpi_abc_ic_ab_back_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-ldrtl-mdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_textfield_search_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-hdpi\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_navigation_item.xml.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\design-22.2.1.aar\\46188772dd278ff201c2da518771a93c\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_activity_chooser_view.xml.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_blue_btn_hover.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\blue_btn_hover.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\color_common_google_signin_btn_text_light.xml.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-9.8.0.aar\\937915c7fa16a847df3dc0b78c8e0dad\\res\\color\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_shareofshelf.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\shareofshelf.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_google_signin_btn_icon_dark_pressed.9.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-9.8.0.aar\\937915c7fa16a847df3dc0b78c8e0dad\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_cab_background_internal_bg.xml.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_snackbar_include.xml.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\design-22.2.1.aar\\46188772dd278ff201c2da518771a93c\\res\\layout\\layout_snackbar_include.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tab_highlight.xml.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable\\tab_highlight.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-xxhdpi\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_upload.xml.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable\\btn_upload.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-hdpi\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_google_signin_btn_text_dark_disabled.9.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-9.8.0.aar\\937915c7fa16a847df3dc0b78c8e0dad\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_media.xml.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_posmexecution_fgey_bgreen.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-mdpi\\posmexecution_fgey_bgreen.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-xxhdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\layout_displayaddsku.xml.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\layout\\displayaddsku.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tick_p.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\tick_p.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-xhdpi\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_navigation_item_subheader.xml.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\design-22.2.1.aar\\46188772dd278ff201c2da518771a93c\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_posmexecution_fgreen_bred.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\posmexecution_fgreen_bred.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tab_text_indicator.xml.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable\\tab_text_indicator.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_expanded_menu_layout.xml.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_ic_voice_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-xxhdpi\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\layout_update.xml.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\layout\\update.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_google_signin_btn_icon_light_normal.9.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-9.8.0.aar\\937915c7fa16a847df3dc0b78c8e0dad\\res\\drawable-xhdpi-v4\\common_google_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_in_bottom.xml.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\anim\\slide_in_bottom.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_list_focused_holo.9.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-hdpi\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_list_selector.xml.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable\\list_selector.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_user_home_icon.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\user_home_icon.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_cab_background_top_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-hdpi\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tick_c.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\tick_c.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_google_signin_btn_text_dark_pressed.9.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-9.8.0.aar\\937915c7fa16a847df3dc0b78c8e0dad\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\layout_select_dialog_multichoice_material.xml.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_slide_out_top.xml.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tickl.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\tickl.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-mdpi\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-xxhdpi\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_screen_content_include.xml.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\layout_promotion_list.xml.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\layout\\promotion_list.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_list_menu_item_layout.xml.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_btn_rating_star_off_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-mdpi\\abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_shareofdisplay_fgreen_bred.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-mdpi\\shareofdisplay_fgreen_bred.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\anim_snackbar_out.xml.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\design-22.2.1.aar\\46188772dd278ff201c2da518771a93c\\res\\anim\\snackbar_out.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_screen_simple_overlay_action_mode.xml.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_discomp.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-mdpi\\discomp.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_item_background_holo_light.xml.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_skuavailability_tick.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\skuavailability_tick.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tick_d.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\tick_d.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_pointer.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\pointer.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media.xml.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_edit_text_material.xml.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-xxhdpi\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\layout_display_paid.xml.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\layout\\display_paid.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_ic_voice_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-hdpi\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-hdpi\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_slide_in_top.xml.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\layout_promotionlayout.xml.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\layout\\promotionlayout.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_deactivebtn_bg.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\deactivebtn_bg.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-hdpi\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_shrink_fade_out_from_bottom.xml.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\layout_tab_indicator.xml.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\layout\\tab_indicator.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_fade_in.xml.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\layout_storeviewlist.xml.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\layout\\storeviewlist.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_google_signin_btn_text_light_pressed.9.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-9.8.0.aar\\937915c7fa16a847df3dc0b78c8e0dad\\res\\drawable-xhdpi-v4\\common_google_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_textfield_search_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-mdpi\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_blue_btn.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\blue_btn.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_list_focused_holo.9.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-xhdpi\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\color-v11_abc_background_cache_hint_selector_material_light.xml.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxxhdpi_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-ldrtl-xxxhdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_google_signin_btn_icon_light_disabled.9.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-9.8.0.aar\\937915c7fa16a847df3dc0b78c8e0dad\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-xxhdpi\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-xxxhdpi\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_list_divider_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\1e9068146559799a420ec93bedc87b80\\res\\drawable-mdpi\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_address_bar.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\address_bar.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sym_keyboard_delete.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\sym_keyboard_delete.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_photos_default.png.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable-hdpi\\photos_default.png"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_flex.xml.flat",
+        "source": "D:\\ParinaamPepsico1\\app\\src\\main\\res\\drawable\\btn_flex.xml"
+    },
+    {
+        "merged": "D:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_google_signin_btn_icon_dark_normal.9.png.flat",
+        "source": "C:\\Users\\yadavendras\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-9.8.0.aar\\937915c7fa16a847df3dc0b78c8e0dad\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_dark_normal.9.png"
+    }
+]

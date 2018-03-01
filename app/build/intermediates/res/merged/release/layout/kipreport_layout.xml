@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+      android:weightSum="100"
+    >
+    
+        
+    <ScrollView 
+        android:layout_width="fill_parent"
+        android:layout_height="match_parent"
+        >
+  <LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="0dp"
+    android:orientation="vertical" 
+
+  
+    >
+<RelativeLayout
+        android:layout_weight="10"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:gravity="center"
+        android:background="#87CEFA" >
+
+        <Button
+            android:id="@+id/button1"
+            style="?android:attr/buttonStyleSmall"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+       android:visibility="invisible"
+            android:text="Daily Entry" 
+         
+           
+            />
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentRight="true"
+            
+            android:textSize="20sp" />
+        
+    </RelativeLayout>
+    <LinearLayout 
+               android:layout_width="match_parent"
+               android:layout_height="1dp"
+               android:background="#000"
+               ></LinearLayout>
+    
+    <LinearLayout 
+         android:layout_weight="30"
+         android:layout_width="match_parent"
+         android:layout_height="0dp"
+         android:orientation="vertical"
+        >
+        
+        
+           <TextView
+            android:layout_gravity="center"
+            android:id="@+id/textView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Data For Food"
+            android:textColor="#000"
+            android:layout_marginBottom="20dp"
+            android:textSize="22sp"
+           />
+           
+           <LinearLayout 
+                android:weightSum="10"
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+         android:orientation="horizontal"
+               >
+               
+               
+           <TextView
+            android:layout_gravity="center"
+            android:layout_weight="3.3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/vertical"
+            android:layout_marginLeft="5dp"
+            android:textSize="18sp"
+           />
+           
+           
+           <TextView
+            android:layout_gravity="center"
+             android:layout_weight="3.3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="   KPI"
+            android:textSize="18sp"
+           />
+           
+           
+           <TextView
+            android:layout_gravity="center"
+            android:layout_weight="3.3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="KPI VALUE"
+            android:textSize="18sp"
+           />
+           </LinearLayout>
+           
+           <LinearLayout 
+               android:layout_width="match_parent"
+               android:layout_height="1dp"
+               android:background="#000"
+               ></LinearLayout>
+           
+           <ListView 
+               android:id="@+id/listsos"
+               android:layout_width="match_parent"
+               android:layout_height="200dp"
+               ></ListView>
+    </LinearLayout>
+    
+       <LinearLayout 
+               android:layout_width="match_parent"
+               android:layout_height="1dp"
+               android:background="#000"
+               ></LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="30"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/textView1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:text="Data for Bevrages"
+                android:textColor="#000"
+                android:layout_marginBottom="10dp"
+                android:textSize="22sp" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:weightSum="10" >
+                <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginLeft="5dp"
+                    android:layout_weight="2.93"
+                    android:text="@string/vertical"
+                    android:textSize="18sp" />
+
+                <TextView
+                    android:id="@+id/textView2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="2.29"
+                    android:text="KPI" />
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="3"
+                    android:text="KPI VALUE"
+                    android:textSize="18sp" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="#000" >
+            </LinearLayout>
+
+            <ListView
+                android:id="@+id/listprom"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:layout_weight="1.12" >
+            </ListView>
+        </LinearLayout>
+
+            <LinearLayout 
+         android:layout_weight="30"
+         android:layout_width="match_parent"
+         android:layout_height="0dp"
+         android:orientation="vertical"
+        >
+           <LinearLayout 
+               android:layout_width="match_parent"
+               android:layout_height="1dp"
+               android:background="#000"
+               ></LinearLayout>
+           <LinearLayout 
+               android:layout_width="match_parent"
+               android:layout_height="1dp"
+               android:background="#000"
+               ></LinearLayout>
+    </LinearLayout>
+    </LinearLayout>
+    </ScrollView>
+
+
+</LinearLayout>

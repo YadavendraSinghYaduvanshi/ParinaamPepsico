@@ -1,0 +1,219 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/home_root"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/login_header"
+    android:orientation="vertical" >
+
+    <!-- Include Header Bar -->
+
+    <LinearLayout
+        android:id="@+id/pepsicolistview_chartcontentarea1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/mainpage_header"
+        android:weightSum="1.0" >
+
+        <RelativeLayout
+            android:id="@+id/pepsicolistview_1Ca"
+            android:layout_width="0dip"
+            android:layout_height="35sp"
+            android:layout_marginBottom="1sp"
+            android:layout_marginRight="1sp"
+            android:layout_weight=".40"
+            android:visibility="gone"
+            android:background="#6699CC"
+            android:padding="1sp" >
+
+            <TextView
+                android:id="@+id/pepsicolistview_1c_titletexta"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                
+                android:text="SKU Name"
+                android:textColor="#ffffff"
+                android:textSize="14sp"
+                android:textStyle="normal" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/pepsicolistview_1Ca"
+            android:layout_width="0dip"
+            android:layout_height="35sp"
+            android:layout_marginBottom="1sp"
+            android:layout_marginRight="1sp"
+            android:layout_weight=".16"
+            android:background="#6699CC"
+            android:padding="1sp" >
+
+            <TextView
+                android:id="@+id/pepsicolistview_1c_titletexta"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:text="Asset"
+                android:textColor="#ffffff"
+                android:textSize="14sp"
+                android:textStyle="normal" />
+        </RelativeLayout>
+        <RelativeLayout
+            android:id="@+id/pepsicolistview_1Ca"
+            android:layout_width="0dip"
+            android:layout_height="35sp"
+            android:layout_marginBottom="1sp"
+            android:layout_marginRight="1sp"
+            android:layout_weight=".16"
+            android:background="#6699CC"
+            android:padding="1sp" >
+
+            <TextView
+                android:id="@+id/pepsicolistview_1c_titletexta"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:text="Brand"
+                android:textColor="#ffffff"
+                android:textSize="14sp"
+                android:textStyle="normal" />
+        </RelativeLayout>
+        
+        <RelativeLayout
+            android:id="@+id/pepsicolistview_1Ca"
+            android:layout_width="0dip"
+            android:layout_height="35sp"
+            android:layout_marginBottom="1sp"
+            android:layout_marginRight="1sp"
+            android:layout_weight=".09"
+            android:background="#6699CC"
+            android:padding="1sp" >
+
+            <TextView
+                android:id="@+id/pepsicolistview_1c_titletexta"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:text="Vertical"
+                android:textColor="#ffffff"
+                android:textSize="14sp"
+                android:textStyle="normal" />
+        </RelativeLayout>
+
+        
+
+        <RelativeLayout
+            android:id="@+id/purity"
+            android:layout_width="0dip"
+            android:layout_height="35sp"
+            android:layout_marginBottom="1sp"
+            android:layout_marginRight="1sp"
+            android:layout_weight=".17"
+            android:background="#6699CC"
+            android:padding="1sp" >
+
+            <TextView
+                android:id="@+id/pepsicolistview_1c_titletextaaa"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:text="Available"
+                android:textColor="#ffffff"
+                android:textSize="14sp"
+                android:textStyle="normal" />
+        </RelativeLayout>
+        
+        <RelativeLayout
+            android:id="@+id/pepsicolistview_2Ca"
+            android:layout_width="0dip"
+            android:layout_marginRight="1sp"
+            android:layout_height="35sp"
+            android:layout_marginBottom="1sp"
+            android:layout_weight=".16"
+            android:background="#6699CC"
+            android:padding="1sp" >
+
+            <TextView
+                android:id="@+id/pepsicolistview_1c_titletextaaa"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:text="Remarks"
+                android:textColor="#ffffff"
+                android:textSize="14sp"
+                android:textStyle="normal" />
+        </RelativeLayout>
+        
+        
+        <RelativeLayout
+            android:id="@+id/pepsicolistview_2Ca"
+            android:layout_width="0dip"
+            android:layout_height="35sp"
+            android:layout_marginBottom="1sp"
+            android:layout_marginRight="1sp"
+            android:layout_weight=".15"
+            android:background="#6699CC"
+            android:padding="1sp" >
+
+            <TextView
+                android:id="@+id/pepsicolistview_1c_titletextaaa"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:text="Purity"
+                android:textColor="#ffffff"
+                android:textSize="14sp"
+                android:textStyle="normal" />
+        </RelativeLayout>
+        
+    </LinearLayout>
+    
+    
+    
+
+    <ListView
+        android:id="@+id/list"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_above="@+id/save"
+        android:layout_below="@+id/pepsicolistview_chartcontentarea1"
+         android:cacheColorHint="#00000000"
+        android:choiceMode="none"
+        android:divider="#3668a6"
+        android:dividerHeight="2dp"
+     />
+
+    <Button
+        android:id="@+id/save"
+        android:layout_width="70sp"
+        android:layout_height="30sp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginRight="5sp"
+        android:background="@drawable/innerbtn"
+        android:onClick="onButtonClick"
+        android:text="Save"
+       android:visibility="invisible"
+        android:textColor="#ffffff"
+        android:textSize="14sp" />
+
+    <RelativeLayout
+        android:id="@+id/mainpage_header"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:background="@drawable/titletext_bg"
+        android:padding="5sp" >
+
+        <TextView
+            android:id="@+id/mainpage_remembermetext"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:text="Main Menu"
+            android:textColor="#ffffff"
+            android:textSize="14sp" />
+    </RelativeLayout>
+
+</RelativeLayout>

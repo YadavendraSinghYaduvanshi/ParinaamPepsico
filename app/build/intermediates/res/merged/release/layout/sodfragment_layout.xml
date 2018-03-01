@@ -1,0 +1,58 @@
+<com.cpm.parinaampepsico.DashboardLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:layout_weight="1"
+    android:background="#f8f9fe" >
+	<!--  Focus SKU -->
+    <Button
+        android:id="@+id/pepsi"
+        style="@style/DashboardButton"
+        android:drawableTop="@drawable/btn_focussku"
+        android:text="Pepsi"
+         android:onClick="onButtonClick" />
+    
+	<!--  Store of Shell -->
+    <Button
+        android:id="@+id/competitor"
+        style="@style/DashboardButton"
+         android:onClick="onButtonClick"
+        android:drawableTop="@drawable/btn_soself"
+        android:text="Competitor" />
+    
+	<!--  Store of Display -->
+    <Button
+        android:id="@+id/other"
+        style="@style/DashboardButton"
+         android:onClick="onButtonClick"
+        android:drawableTop="@drawable/btn_sdisplay"
+        android:text="Other" />
+	
+    <!--  POSM Execution -->
+    <Button
+        android:id="@+id/btn_salesthru"
+        style="@style/DashboardButton"
+         android:onClick="onButtonClick"
+         android:visibility="invisible"
+        android:drawableTop="@drawable/btn_posmexecution"
+        android:text="POSM Execution" />
+    
+        <!--  SKU Availability -->
+    <Button
+        android:id="@+id/btn_sku"
+        style="@style/DashboardButton"
+         android:onClick="onButtonClick"
+            android:visibility="invisible"
+        android:drawableTop="@drawable/btn_skuavailability"
+        android:text="Assest" />
+    
+            <!--  Sales Button -->
+    <Button
+        android:id="@+id/btn_sales"
+        style="@style/DashboardButton"
+         android:onClick="onButtonClick"
+        android:drawableTop="@drawable/btn_salesthru"
+        android:text="Sales Through" 
+        android:visibility="invisible"
+        />
+</com.cpm.parinaampepsico.DashboardLayout>

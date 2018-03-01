@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "E:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fab_in.xml",
+        "source": "C:\\Users\\yadavendras.CPMIN\\.android\\build-cache\\2a5fd3545c271bb045b1d6a59a6ebe9405c89c3a\\output\\res\\anim\\fab_in.xml"
+    },
+    {
+        "merged": "E:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\yadavendras.CPMIN\\.android\\build-cache\\2a53ac586b3bddbd9778f1c15c748ef0195f5526\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "E:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\yadavendras.CPMIN\\.android\\build-cache\\2a53ac586b3bddbd9778f1c15c748ef0195f5526\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "E:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\snackbar_out.xml",
+        "source": "C:\\Users\\yadavendras.CPMIN\\.android\\build-cache\\2a5fd3545c271bb045b1d6a59a6ebe9405c89c3a\\output\\res\\anim\\snackbar_out.xml"
+    },
+    {
+        "merged": "E:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\yadavendras.CPMIN\\.android\\build-cache\\2a53ac586b3bddbd9778f1c15c748ef0195f5526\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "E:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\yadavendras.CPMIN\\.android\\build-cache\\2a53ac586b3bddbd9778f1c15c748ef0195f5526\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "E:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\yadavendras.CPMIN\\.android\\build-cache\\2a53ac586b3bddbd9778f1c15c748ef0195f5526\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "E:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\yadavendras.CPMIN\\.android\\build-cache\\2a53ac586b3bddbd9778f1c15c748ef0195f5526\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "E:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\yadavendras.CPMIN\\.android\\build-cache\\2a53ac586b3bddbd9778f1c15c748ef0195f5526\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\yadavendras.CPMIN\\.android\\build-cache\\2a53ac586b3bddbd9778f1c15c748ef0195f5526\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\snackbar_in.xml",
+        "source": "C:\\Users\\yadavendras.CPMIN\\.android\\build-cache\\2a5fd3545c271bb045b1d6a59a6ebe9405c89c3a\\output\\res\\anim\\snackbar_in.xml"
+    },
+    {
+        "merged": "E:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_bottom.xml",
+        "source": "E:\\ParinaamPepsico1\\app\\src\\main\\res\\anim\\slide_in_bottom.xml"
+    },
+    {
+        "merged": "E:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fab_out.xml",
+        "source": "C:\\Users\\yadavendras.CPMIN\\.android\\build-cache\\2a5fd3545c271bb045b1d6a59a6ebe9405c89c3a\\output\\res\\anim\\fab_out.xml"
+    },
+    {
+        "merged": "E:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\yadavendras.CPMIN\\.android\\build-cache\\2a53ac586b3bddbd9778f1c15c748ef0195f5526\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "E:\\ParinaamPepsico1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\yadavendras.CPMIN\\.android\\build-cache\\2a53ac586b3bddbd9778f1c15c748ef0195f5526\\output\\res\\anim\\abc_slide_out_top.xml"
+    }
+]

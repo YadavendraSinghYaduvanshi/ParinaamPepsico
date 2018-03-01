@@ -1,0 +1,84 @@
+<com.cpm.parinaampepsico.DashboardLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:layout_weight="1"
+    android:background="#f8f9fe" >
+      <!--  Focus SKU -->
+    <Button
+        android:id="@+id/btn_news_training"
+        style="@style/DashboardButton"
+        android:drawableTop="@drawable/btn_focussku"
+        android:text="Weekly Share of Shelf"
+         android:onClick="onButtonClick" />
+    
+      <!--  Store of Shell -->
+    <Button
+        android:id="@+id/btn_posmtheme"
+        style="@style/DashboardButton"
+         android:onClick="onButtonClick"
+        android:drawableTop="@drawable/btn_sdisplay"
+        android:text="Weekly Additional Display / Visibility" />
+    
+      <!--  Store of Display -->
+    <Button
+        android:id="@+id/btn_flex"
+        style="@style/DashboardButton"
+         android:onClick="onButtonClick"
+        android:drawableTop="@drawable/btn_soself"
+        android:visibility="gone"
+        android:text="Asset Compliance" />
+      
+    <!--  POSM Execution -->
+    <Button
+        android:id="@+id/btn_promotion"
+        style="@style/DashboardButton"
+         android:onClick="onButtonClick"
+         android:visibility="visible"
+        android:drawableTop="@drawable/btn_posmexecution"
+        android:text="Weekly Promotion" />
+    
+    
+    <Button
+        android:id="@+id/btn_sku"
+        style="@style/DashboardButton"
+         android:onClick="onButtonClick"
+         
+        android:drawableTop="@drawable/store_checkout"
+        android:text="Checkout" 
+        android:visibility="gone"/>
+    
+            <!--  Sales Button -->
+    <Button
+        android:id="@+id/btn_sales"
+        style="@style/DashboardButton"
+         android:onClick="onButtonClick"
+        android:drawableTop="@drawable/btn_salesthru"
+        android:text="Sales Through" 
+        android:visibility="gone"
+        />
+    
+        <!--  SKU Availability -->
+    <Button
+        android:id="@+id/btn_newentry"
+        style="@style/DashboardButton"
+         android:onClick="onButtonClick"
+         
+        android:drawableTop="@drawable/daily_entry"
+        android:text="Daily Reporting" 
+        />
+    
+            <!--  Sales Button -->
+    <Button
+        android:id="@+id/btn_displaypaid"
+        style="@style/DashboardButton"
+         android:onClick="onButtonClick"
+        android:drawableTop="@drawable/displaypaid"
+        android:text="Weekly Assets and Paid display" 
+      
+        />
+    
+    
+    
+    
+</com.cpm.parinaampepsico.DashboardLayout>

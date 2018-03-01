@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+        android:background="@drawable/title_header"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="23dp"
+        android:text="SELECT HERE"
+        android:textSize="30sp" />
+
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="wrap_content"
+        android:layout_height="6dp"
+        android:layout_below="@+id/textView1"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/address_bar" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true" >
+
+        <Button
+            android:id="@+id/dailyEntry"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+          
+            android:text="DAILY ENTRY" />
+
+        <Button
+            android:id="@+id/kpireport"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="MTD KPI SCORES  " />
+
+        <Button
+            android:id="@+id/targetdata"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/dailyEntry"
+            android:layout_centerHorizontal="true"
+            android:text="STORE TARGET " />
+    </LinearLayout>
+
+</RelativeLayout>

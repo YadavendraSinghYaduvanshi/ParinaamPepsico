@@ -1,0 +1,167 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/home_root"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/login_header"
+    android:orientation="vertical" >
+
+    <!-- Include Header Bar -->
+
+    <LinearLayout
+        android:id="@+id/flexviewlist_contentarea"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/list_selector"
+        android:weightSum="1.0" >
+
+        <RelativeLayout
+            android:id="@+id/flexviewlist_1C"
+            android:layout_width="0dip"
+            android:layout_height="50sp"
+            android:layout_marginRight="3sp"
+            android:layout_weight=".4"
+            android:visibility="gone" >
+
+            <TextView
+                android:id="@+id/sku"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_centerVertical="true"
+                android:paddingLeft="3sp"
+                android:text="Sku"
+                android:textColor="#383838"
+                android:textSize="14sp" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/flexviewlist_1C"
+            android:layout_width="0dip"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="3sp"
+            android:layout_weight=".2" >
+
+            <TextView
+                android:id="@+id/assest"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:text="assest"
+                android:textColor="#383838"
+                android:textSize="14sp" />
+
+            <ImageView
+                android:id="@+id/cameraicon"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/assest"
+                android:layout_centerHorizontal="true"
+                android:background="@drawable/listcamera" >
+            </ImageView>
+            
+            
+        </RelativeLayout>
+
+         <RelativeLayout
+            android:id="@+id/flexviewlist_2C"
+            android:layout_width="0dip"
+            android:layout_height="50sp"
+            android:layout_marginRight="2sp"
+            android:layout_weight=".16"
+            android:padding="1sp" >
+
+            <TextView
+                android:id="@+id/brandname"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="Brand Name"
+                />
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/flexviewlist_2C"
+            android:layout_width="0dip"
+            android:layout_height="50sp"
+          
+            android:layout_weight=".11"
+            android:padding="1sp" >
+
+            <TextView
+                android:id="@+id/type"
+                android:text="ty"
+                
+               
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content" />
+
+        </RelativeLayout>
+
+       
+        
+         <RelativeLayout
+            android:id="@+id/flexviewlist_2C"
+            android:layout_width="0dip"
+            android:layout_height="50sp"
+            android:layout_marginRight="2sp"
+            android:layout_weight=".16"
+            android:padding="1sp" >
+
+            <ToggleButton
+                android:id="@+id/toggleButton1"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:textOff="@string/toggle_turn_off"
+                android:textOn="@string/toggle_turn_on" />
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/pepsicolistview_6C"
+            android:layout_width="0dip"
+            android:layout_height="55sp"
+            android:layout_marginBottom="1sp"
+            android:layout_marginLeft="1sp"
+            android:layout_marginRight="1sp"
+            android:layout_weight=".16"
+            
+            android:padding="1sp" >
+
+            <EditText
+                android:id="@+id/remarks"
+                android:layout_width="fill_parent"
+                android:layout_height="55sp"
+                android:layout_alignParentBottom="true"
+                android:layout_centerHorizontal="true"
+                android:textSize="15sp" >
+
+            </EditText>
+        </RelativeLayout>
+        
+         <RelativeLayout
+            android:id="@+id/flexviewlist_2C"
+            android:layout_width="0dip"
+            android:layout_height="50sp"
+            android:layout_marginRight="2sp"
+            android:layout_weight=".16"
+            android:padding="1sp" >
+
+            <ToggleButton
+                android:id="@+id/togglepure"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:textOff="@string/toggle_turn_off"
+                android:textOn="@string/toggle_turn_on" />
+
+        </RelativeLayout>
+
+         <Button
+             android:id="@+id/addetail"
+             android:layout_width="50dp"
+             android:layout_height="50dp"
+             
+             android:text="  Add  " />
+        
+    </LinearLayout>
+
+</RelativeLayout>

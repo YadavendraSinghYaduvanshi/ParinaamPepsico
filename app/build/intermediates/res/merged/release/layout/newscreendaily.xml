@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#f8f9fe"
+    android:orientation="vertical" >
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:orientation="vertical"
+        android:weightSum="100" >
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="15"
+            android:background="#ff29549f" >
+
+            <TextView
+                android:text="  Daily Entry Menu"
+                android:textColor="#fff"
+                android:textSize="15sp" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:layout_weight="40"
+            android:weightSum="100" >
+
+            <Button
+                android:id="@+id/btn_newentryyy"
+                style="@style/DashboardButton"
+                android:layout_weight="25"
+                android:drawableTop="@drawable/daily_entry"
+                android:onClick="onButtonClick"
+                android:text="Daily Reporting"
+                android:visibility="invisible" />
+
+            <Button
+                android:id="@+id/btn_newentry"
+                style="@style/DashboardButton"
+                android:layout_weight="25"
+                android:drawableTop="@drawable/paid_dis"
+                android:enabled="false"
+                android:onClick="onButtonClick"
+                android:text="Daily Reporting" />
+
+            <Button
+                android:id="@+id/fh"
+                style="@style/DashboardButton"
+                android:layout_weight="25"
+                android:drawableTop="@drawable/btn_sdisplay"
+                android:onClick="onButtonClick"
+                android:text="Additional Display / Visibility"
+                android:visibility="invisible" />
+
+            <Button
+                android:id="@+id/v"
+                style="@style/DashboardButton"
+                android:layout_weight="25"
+                android:drawableTop="@drawable/btn_posmexecution"
+                android:onClick="onButtonClick"
+                android:text="Promotion"
+                android:visibility="invisible" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:layout_weight="15"
+            android:background="#ff29549f" >
+
+            <TextView
+                android:text="  Weekly Entry Menu"
+                android:textColor="#fff"
+                android:textSize="15sp" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:layout_weight="40"
+            android:weightSum="100" >
+
+            <Button
+                android:id="@+id/btn_news_training"
+                style="@style/DashboardButton"
+                android:layout_weight="20"
+                android:drawableTop="@drawable/focussku"
+                android:onClick="onButtonClick"
+                android:text="Share of Shelf" />
+
+            <Button
+                android:id="@+id/btn_posmtheme"
+                style="@style/DashboardButton"
+                android:layout_weight="20"
+                android:drawableTop="@drawable/shareofdisplay"
+                android:onClick="onButtonClick"
+                android:text="Additional Display / Visibility" />
+
+            <Button
+                android:id="@+id/btn_displaypaid"
+                style="@style/DashboardButton"
+                android:layout_weight="20"
+                android:drawableTop="@drawable/displaypaid"
+                android:onClick="onButtonClick"
+                android:text="Assets and Paid display" />
+
+            <Button
+                android:id="@+id/btn_promotion"
+                style="@style/DashboardButton"
+                android:layout_weight="20"
+                android:drawableTop="@drawable/posmexecution"
+                android:onClick="onButtonClick"
+                android:text="Promotion"
+                android:visibility="visible" />
+        </TableRow>
+    </TableLayout>
+
+</LinearLayout>
